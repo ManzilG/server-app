@@ -13,14 +13,14 @@ public class ServingAppController {
                 "  \"users\": [\n" +
                 "    {\n" +
                 "      \"name\" : \"Manzil\",\n" +
-                "      \"age\" : 28,\n" +
+                "      \"age\" : 26,\n" +
                 "      \"gender\" : \"M\",\n" +
                 "      \"hobbies\" : null\n" +
                 "    },\n" +
                 "    {\n" +
-                "      \"name\" : \"Ramita\",\n" +
+                "      \"name\" : \"John\",\n" +
                 "      \"age\" : 30,\n" +
-                "      \"gender\" : \"F\",\n" +
+                "      \"gender\" : \"M\",\n" +
                 "      \"hobbies\" : [\n" +
                 "        \"Sleeping\", \"Movies\"\n" +
                 "      ]\n" +
